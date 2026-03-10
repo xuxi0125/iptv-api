@@ -1,0 +1,667 @@
+#EXTM3U x-tvg-url="http://192.168.31.133/epg/epg.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://192.168.31.133/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-11 00:08:45
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://192.168.31.133/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://192.168.31.133/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://192.168.31.133/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://192.168.31.133/logo/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://192.168.31.133/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://192.168.31.133/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://192.168.31.133/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://192.168.31.133/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://pull-flv-f11.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770014656&major_anchor_level=common&sign=48f3509f25d6d54030f37837f0882293&t_id=037-202601261444154AF9E571813B527DA2AA-HGx1i8&unique_id=stream-695106910011261612_684_flv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://192.168.31.133/logo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://192.168.31.133/logo/CCTV-3.png" group-title="📺央视频道",CCTV-3
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://192.168.31.133/logo/CCTV-3.png" group-title="📺央视频道",CCTV-3
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://192.168.31.133/logo/CCTV-3.png" group-title="📺央视频道",CCTV-3
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://192.168.31.133/logo/CCTV-3.png" group-title="📺央视频道",CCTV-3
+http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://192.168.31.133/logo/CCTV-3.png" group-title="📺央视频道",CCTV-3
+http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://192.168.31.133/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://192.168.31.133/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://192.168.31.133/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://192.168.31.133/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://120.211.62.180:8000/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://192.168.31.133/logo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://192.168.31.133/logo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://192.168.31.133/logo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://192.168.31.133/logo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://192.168.31.133/logo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://192.168.31.133/logo/CCTV-5.png" group-title="📺央视频道",CCTV-5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://192.168.31.133/logo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://192.168.31.133/logo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://192.168.31.133/logo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://192.168.31.133/logo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://192.168.31.133/logo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="http://192.168.31.133/logo/CCTV-6.png" group-title="📺央视频道",CCTV-6
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="http://192.168.31.133/logo/CCTV-6.png" group-title="📺央视频道",CCTV-6
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="http://192.168.31.133/logo/CCTV-6.png" group-title="📺央视频道",CCTV-6
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="http://192.168.31.133/logo/CCTV-7.png" group-title="📺央视频道",CCTV-7
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="http://192.168.31.133/logo/CCTV-7.png" group-title="📺央视频道",CCTV-7
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="http://192.168.31.133/logo/CCTV-7.png" group-title="📺央视频道",CCTV-7
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="http://192.168.31.133/logo/CCTV-7.png" group-title="📺央视频道",CCTV-7
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="http://192.168.31.133/logo/CCTV-7.png" group-title="📺央视频道",CCTV-7
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="http://192.168.31.133/logo/CCTV-8.png" group-title="📺央视频道",CCTV-8
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="http://192.168.31.133/logo/CCTV-8.png" group-title="📺央视频道",CCTV-8
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="http://192.168.31.133/logo/CCTV-8.png" group-title="📺央视频道",CCTV-8
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="http://192.168.31.133/logo/CCTV-8.png" group-title="📺央视频道",CCTV-8
+http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="http://192.168.31.133/logo/CCTV-8.png" group-title="📺央视频道",CCTV-8
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="http://192.168.31.133/logo/CCTV-9.png" group-title="📺央视频道",CCTV-9
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="http://192.168.31.133/logo/CCTV-9.png" group-title="📺央视频道",CCTV-9
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="http://192.168.31.133/logo/CCTV-9.png" group-title="📺央视频道",CCTV-9
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="http://192.168.31.133/logo/CCTV-9.png" group-title="📺央视频道",CCTV-9
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="http://192.168.31.133/logo/CCTV-9.png" group-title="📺央视频道",CCTV-9
+http://120.211.62.180:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="http://192.168.31.133/logo/CCTV-10.png" group-title="📺央视频道",CCTV-10
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="http://192.168.31.133/logo/CCTV-10.png" group-title="📺央视频道",CCTV-10
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="http://192.168.31.133/logo/CCTV-10.png" group-title="📺央视频道",CCTV-10
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="http://192.168.31.133/logo/CCTV-10.png" group-title="📺央视频道",CCTV-10
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="http://192.168.31.133/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="http://192.168.31.133/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="http://192.168.31.133/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="http://192.168.31.133/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
+http://120.211.62.180:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="http://192.168.31.133/logo/CCTV-11.png" group-title="📺央视频道",CCTV-11
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="http://192.168.31.133/logo/CCTV-12.png" group-title="📺央视频道",CCTV-12
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="http://192.168.31.133/logo/CCTV-12.png" group-title="📺央视频道",CCTV-12
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="http://192.168.31.133/logo/CCTV-12.png" group-title="📺央视频道",CCTV-12
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="http://192.168.31.133/logo/CCTV-12.png" group-title="📺央视频道",CCTV-12
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="http://192.168.31.133/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="http://192.168.31.133/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="http://192.168.31.133/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="http://192.168.31.133/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://pull-f3.douyincdn.com/media/stream-695210801053303468.m3u8?arch_hrchy=w1&auth_key=1770157464-0-0-c86e8708d6a7ec472d19e1e6d5c72ce4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601280654241B9396BD38ED096ED49B-UTnX2O
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="http://192.168.31.133/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://pull-f3.douyincdn.com/media/stream-695180860228633260.m3u8?arch_hrchy=w1&auth_key=1770012985-0-0-ff9ee4b3a63b6442d68acb5c221d05b4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601261446245C5B02B57E2169287B08-jDQsKk
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="http://192.168.31.133/logo/CCTV-14.png" group-title="📺央视频道",CCTV-14
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="http://192.168.31.133/logo/CCTV-14.png" group-title="📺央视频道",CCTV-14
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="http://192.168.31.133/logo/CCTV-14.png" group-title="📺央视频道",CCTV-14
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="http://192.168.31.133/logo/CCTV-14.png" group-title="📺央视频道",CCTV-14
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="http://192.168.31.133/logo/CCTV-15.png" group-title="📺央视频道",CCTV-15
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="http://192.168.31.133/logo/CCTV-15.png" group-title="📺央视频道",CCTV-15
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="http://192.168.31.133/logo/CCTV-15.png" group-title="📺央视频道",CCTV-15
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="http://192.168.31.133/logo/CCTV-15.png" group-title="📺央视频道",CCTV-15
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="http://192.168.31.133/logo/CCTV-15.png" group-title="📺央视频道",CCTV-15
+https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="http://192.168.31.133/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="http://192.168.31.133/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="http://192.168.31.133/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="http://192.168.31.133/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-16" tvg-logo="http://192.168.31.133/logo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="http://192.168.31.133/logo/CCTV-17.png" group-title="📺央视频道",CCTV-17
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="http://192.168.31.133/logo/CCTV-17.png" group-title="📺央视频道",CCTV-17
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17" tvg-logo="http://192.168.31.133/logo/CCTV-17.png" group-title="📺央视频道",CCTV-17
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="http://192.168.31.133/logo/CETV-1.png" group-title="📺央视频道",CETV-1
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="http://192.168.31.133/logo/CETV-1.png" group-title="📺央视频道",CETV-1
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="http://192.168.31.133/logo/CETV-1.png" group-title="📺央视频道",CETV-1
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="http://192.168.31.133/logo/CETV-1.png" group-title="📺央视频道",CETV-1
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-1" tvg-logo="http://192.168.31.133/logo/CETV-1.png" group-title="📺央视频道",CETV-1
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-2" tvg-logo="http://192.168.31.133/logo/CETV-2.png" group-title="📺央视频道",CETV-2
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-2" tvg-logo="http://192.168.31.133/logo/CETV-2.png" group-title="📺央视频道",CETV-2
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-2" tvg-logo="http://192.168.31.133/logo/CETV-2.png" group-title="📺央视频道",CETV-2
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-2" tvg-logo="http://192.168.31.133/logo/CETV-2.png" group-title="📺央视频道",CETV-2
+http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-2" tvg-logo="http://192.168.31.133/logo/CETV-2.png" group-title="📺央视频道",CETV-2
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+#EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="http://192.168.31.133/logo/CETV-3.png" group-title="📺央视频道",CETV-3
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="http://192.168.31.133/logo/CETV-3.png" group-title="📺央视频道",CETV-3
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="http://192.168.31.133/logo/CETV-3.png" group-title="📺央视频道",CETV-3
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="http://192.168.31.133/logo/CETV-3.png" group-title="📺央视频道",CETV-3
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="CETV-3" tvg-logo="http://192.168.31.133/logo/CETV-3.png" group-title="📺央视频道",CETV-3
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
+#EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="http://192.168.31.133/logo/CETV-4.png" group-title="📺央视频道",CETV-4
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="http://192.168.31.133/logo/CETV-4.png" group-title="📺央视频道",CETV-4
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="http://192.168.31.133/logo/CETV-4.png" group-title="📺央视频道",CETV-4
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="http://192.168.31.133/logo/CETV-4.png" group-title="📺央视频道",CETV-4
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="CETV-4" tvg-logo="http://192.168.31.133/logo/CETV-4.png" group-title="📺央视频道",CETV-4
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-id="24" tvg-name="香港卫视" tvg-logo="http://192.168.31.133/logo/香港卫视.png" group-title="📡卫视频道",香港卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="24" tvg-name="香港卫视" tvg-logo="http://192.168.31.133/logo/香港卫视.png" group-title="📡卫视频道",香港卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="24" tvg-name="香港卫视" tvg-logo="http://192.168.31.133/logo/香港卫视.png" group-title="📡卫视频道",香港卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="24" tvg-name="香港卫视" tvg-logo="http://192.168.31.133/logo/香港卫视.png" group-title="📡卫视频道",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="香港卫视" tvg-logo="http://192.168.31.133/logo/香港卫视.png" group-title="📡卫视频道",香港卫视
+https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
+#EXTINF:-1 tvg-id="25" tvg-name="浙江卫视" tvg-logo="http://192.168.31.133/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="25" tvg-name="浙江卫视" tvg-logo="http://192.168.31.133/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="25" tvg-name="浙江卫视" tvg-logo="http://192.168.31.133/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="25" tvg-name="浙江卫视" tvg-logo="http://192.168.31.133/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+#EXTINF:-1 tvg-id="25" tvg-name="浙江卫视" tvg-logo="http://192.168.31.133/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+https://play-qukan.cztv.com/live/1746687519046362.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="湖南卫视" tvg-logo="http://192.168.31.133/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="26" tvg-name="湖南卫视" tvg-logo="http://192.168.31.133/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="26" tvg-name="湖南卫视" tvg-logo="http://192.168.31.133/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="26" tvg-name="湖南卫视" tvg-logo="http://192.168.31.133/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="湖南卫视" tvg-logo="http://192.168.31.133/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="北京卫视" tvg-logo="http://192.168.31.133/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="27" tvg-name="北京卫视" tvg-logo="http://192.168.31.133/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="27" tvg-name="北京卫视" tvg-logo="http://192.168.31.133/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="27" tvg-name="北京卫视" tvg-logo="http://192.168.31.133/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="北京卫视" tvg-logo="http://192.168.31.133/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="28" tvg-name="湖北卫视" tvg-logo="http://192.168.31.133/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="28" tvg-name="湖北卫视" tvg-logo="http://192.168.31.133/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="28" tvg-name="湖北卫视" tvg-logo="http://192.168.31.133/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="28" tvg-name="湖北卫视" tvg-logo="http://192.168.31.133/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://112.27.235.94:8000/hls/41/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="湖北卫视" tvg-logo="http://192.168.31.133/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="黑龙江卫视" tvg-logo="http://192.168.31.133/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="29" tvg-name="黑龙江卫视" tvg-logo="http://192.168.31.133/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="29" tvg-name="黑龙江卫视" tvg-logo="http://192.168.31.133/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="29" tvg-name="黑龙江卫视" tvg-logo="http://192.168.31.133/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="安徽卫视" tvg-logo="http://192.168.31.133/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="30" tvg-name="安徽卫视" tvg-logo="http://192.168.31.133/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="30" tvg-name="安徽卫视" tvg-logo="http://192.168.31.133/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="30" tvg-name="安徽卫视" tvg-logo="http://192.168.31.133/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://112.27.235.94:8000/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="重庆卫视" tvg-logo="http://192.168.31.133/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="31" tvg-name="重庆卫视" tvg-logo="http://192.168.31.133/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="31" tvg-name="重庆卫视" tvg-logo="http://192.168.31.133/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="31" tvg-name="重庆卫视" tvg-logo="http://192.168.31.133/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://112.27.235.94:8000/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="重庆卫视" tvg-logo="http://192.168.31.133/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="东方卫视" tvg-logo="http://192.168.31.133/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="32" tvg-name="东方卫视" tvg-logo="http://192.168.31.133/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="32" tvg-name="东方卫视" tvg-logo="http://192.168.31.133/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="32" tvg-name="东方卫视" tvg-logo="http://192.168.31.133/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="东方卫视" tvg-logo="http://192.168.31.133/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="东南卫视" tvg-logo="http://192.168.31.133/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="33" tvg-name="东南卫视" tvg-logo="http://192.168.31.133/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="33" tvg-name="东南卫视" tvg-logo="http://192.168.31.133/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="33" tvg-name="东南卫视" tvg-logo="http://192.168.31.133/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="甘肃卫视" tvg-logo="http://192.168.31.133/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="34" tvg-name="甘肃卫视" tvg-logo="http://192.168.31.133/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="34" tvg-name="甘肃卫视" tvg-logo="http://192.168.31.133/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="http://192.168.31.133/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="http://192.168.31.133/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="http://192.168.31.133/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="http://192.168.31.133/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="http://192.168.31.133/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="http://192.168.31.133/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="http://192.168.31.133/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="http://192.168.31.133/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+http://112.27.235.94:8000/hls/46/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://192.168.31.133/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://192.168.31.133/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://192.168.31.133/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://192.168.31.133/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://192.168.31.133/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 tvg-id="38" tvg-name="河北卫视" tvg-logo="http://192.168.31.133/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="38" tvg-name="河北卫视" tvg-logo="http://192.168.31.133/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="38" tvg-name="河北卫视" tvg-logo="http://192.168.31.133/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="38" tvg-name="河北卫视" tvg-logo="http://192.168.31.133/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://192.168.31.133/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://192.168.31.133/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://192.168.31.133/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://192.168.31.133/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="http://192.168.31.133/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://112.27.235.94:8000/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="吉林卫视" tvg-logo="http://192.168.31.133/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="40" tvg-name="吉林卫视" tvg-logo="http://192.168.31.133/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="40" tvg-name="吉林卫视" tvg-logo="http://192.168.31.133/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="41" tvg-name="江苏卫视" tvg-logo="http://192.168.31.133/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="41" tvg-name="江苏卫视" tvg-logo="http://192.168.31.133/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="41" tvg-name="江苏卫视" tvg-logo="http://192.168.31.133/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="41" tvg-name="江苏卫视" tvg-logo="http://192.168.31.133/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="江西卫视" tvg-logo="http://192.168.31.133/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="42" tvg-name="江西卫视" tvg-logo="http://192.168.31.133/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="42" tvg-name="江西卫视" tvg-logo="http://192.168.31.133/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="42" tvg-name="江西卫视" tvg-logo="http://192.168.31.133/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://112.27.235.94:8000/hls/44/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="江西卫视" tvg-logo="http://192.168.31.133/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="43" tvg-name="辽宁卫视" tvg-logo="http://192.168.31.133/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="43" tvg-name="辽宁卫视" tvg-logo="http://192.168.31.133/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="43" tvg-name="辽宁卫视" tvg-logo="http://192.168.31.133/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="43" tvg-name="辽宁卫视" tvg-logo="http://192.168.31.133/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="辽宁卫视" tvg-logo="http://192.168.31.133/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://112.27.235.94:8000/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="内蒙古卫视" tvg-logo="http://192.168.31.133/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="44" tvg-name="内蒙古卫视" tvg-logo="http://192.168.31.133/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="44" tvg-name="内蒙古卫视" tvg-logo="http://192.168.31.133/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="45" tvg-name="宁夏卫视" tvg-logo="http://192.168.31.133/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="45" tvg-name="宁夏卫视" tvg-logo="http://192.168.31.133/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="45" tvg-name="宁夏卫视" tvg-logo="http://192.168.31.133/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="46" tvg-name="青海卫视" tvg-logo="http://192.168.31.133/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="46" tvg-name="青海卫视" tvg-logo="http://192.168.31.133/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="46" tvg-name="青海卫视" tvg-logo="http://192.168.31.133/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="47" tvg-name="山东卫视" tvg-logo="http://192.168.31.133/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="47" tvg-name="山东卫视" tvg-logo="http://192.168.31.133/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="47" tvg-name="山东卫视" tvg-logo="http://192.168.31.133/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="47" tvg-name="山东卫视" tvg-logo="http://192.168.31.133/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://192.168.31.133/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://192.168.31.133/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://192.168.31.133/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://192.168.31.133/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="山西卫视" tvg-logo="http://192.168.31.133/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://192.168.31.133/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://192.168.31.133/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://192.168.31.133/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="49" tvg-name="陕西卫视" tvg-logo="http://192.168.31.133/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://192.168.31.133/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://192.168.31.133/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://192.168.31.133/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://192.168.31.133/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="四川卫视" tvg-logo="http://192.168.31.133/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="三沙卫视" tvg-logo="http://192.168.31.133/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="52" tvg-name="三沙卫视" tvg-logo="http://192.168.31.133/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="52" tvg-name="三沙卫视" tvg-logo="http://192.168.31.133/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="52" tvg-name="三沙卫视" tvg-logo="http://192.168.31.133/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+https://srs.ssws.tv/video/sstv-10/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="三沙卫视" tvg-logo="http://192.168.31.133/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+#EXTINF:-1 tvg-id="53" tvg-name="天津卫视" tvg-logo="http://192.168.31.133/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="53" tvg-name="天津卫视" tvg-logo="http://192.168.31.133/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="53" tvg-name="天津卫视" tvg-logo="http://192.168.31.133/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="53" tvg-name="天津卫视" tvg-logo="http://192.168.31.133/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://112.27.235.94:8000/hls/42/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="天津卫视" tvg-logo="http://192.168.31.133/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="54" tvg-name="西藏卫视" tvg-logo="http://192.168.31.133/logo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="54" tvg-name="西藏卫视" tvg-logo="http://192.168.31.133/logo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="54" tvg-name="西藏卫视" tvg-logo="http://192.168.31.133/logo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="54" tvg-name="西藏卫视" tvg-logo="http://192.168.31.133/logo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 tvg-id="55" tvg-name="新疆卫视" tvg-logo="http://192.168.31.133/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="55" tvg-name="新疆卫视" tvg-logo="http://192.168.31.133/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="55" tvg-name="新疆卫视" tvg-logo="http://192.168.31.133/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="55" tvg-name="新疆卫视" tvg-logo="http://192.168.31.133/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://goo.bkpcp.top/mg/xjws
+#EXTINF:-1 tvg-id="55" tvg-name="新疆卫视" tvg-logo="http://192.168.31.133/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="云南卫视" tvg-logo="http://192.168.31.133/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="56" tvg-name="云南卫视" tvg-logo="http://192.168.31.133/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="56" tvg-name="云南卫视" tvg-logo="http://192.168.31.133/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="56" tvg-name="云南卫视" tvg-logo="http://192.168.31.133/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="http://192.168.31.133/logo/广东珠江.png" group-title="☘️广东频道",广东珠江
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="http://192.168.31.133/logo/广东珠江.png" group-title="☘️广东频道",广东珠江
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="http://192.168.31.133/logo/广东珠江.png" group-title="☘️广东频道",广东珠江
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="http://192.168.31.133/logo/广东珠江.png" group-title="☘️广东频道",广东珠江
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 tvg-id="57" tvg-name="广东珠江" tvg-logo="http://192.168.31.133/logo/广东珠江.png" group-title="☘️广东频道",广东珠江
+http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="58" tvg-name="广东体育" tvg-logo="http://192.168.31.133/logo/广东体育.png" group-title="☘️广东频道",广东体育
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="58" tvg-name="广东体育" tvg-logo="http://192.168.31.133/logo/广东体育.png" group-title="☘️广东频道",广东体育
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="58" tvg-name="广东体育" tvg-logo="http://192.168.31.133/logo/广东体育.png" group-title="☘️广东频道",广东体育
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="58" tvg-name="广东体育" tvg-logo="http://192.168.31.133/logo/广东体育.png" group-title="☘️广东频道",广东体育
+http://r.jdshipin.com/LiYdg
+#EXTINF:-1 tvg-id="58" tvg-name="广东体育" tvg-logo="http://192.168.31.133/logo/广东体育.png" group-title="☘️广东频道",广东体育
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="广东新闻" tvg-logo="http://192.168.31.133/logo/广东新闻.png" group-title="☘️广东频道",广东新闻
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="59" tvg-name="广东新闻" tvg-logo="http://192.168.31.133/logo/广东新闻.png" group-title="☘️广东频道",广东新闻
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="59" tvg-name="广东新闻" tvg-logo="http://192.168.31.133/logo/广东新闻.png" group-title="☘️广东频道",广东新闻
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="59" tvg-name="广东新闻" tvg-logo="http://192.168.31.133/logo/广东新闻.png" group-title="☘️广东频道",广东新闻
+https://hls-gateway.vpstv.net/streams/708873.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="广东新闻" tvg-logo="http://192.168.31.133/logo/广东新闻.png" group-title="☘️广东频道",广东新闻
+https://stream1.freetv.fun/yan-dong-xin-wen-27.ctv
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="☘️广东频道",广东卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="☘️广东频道",广东卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="☘️广东频道",广东卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="☘️广东频道",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="http://192.168.31.133/logo/广东卫视.png" group-title="☘️广东频道",广东卫视
+http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="广东民生" tvg-logo="http://192.168.31.133/logo/广东民生.png" group-title="☘️广东频道",广东民生
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="60" tvg-name="广东民生" tvg-logo="http://192.168.31.133/logo/广东民生.png" group-title="☘️广东频道",广东民生
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="60" tvg-name="广东民生" tvg-logo="http://192.168.31.133/logo/广东民生.png" group-title="☘️广东频道",广东民生
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="60" tvg-name="广东民生" tvg-logo="http://192.168.31.133/logo/广东民生.png" group-title="☘️广东频道",广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
+#EXTINF:-1 tvg-id="60" tvg-name="广东民生" tvg-logo="http://192.168.31.133/logo/广东民生.png" group-title="☘️广东频道",广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
+#EXTINF:-1 tvg-id="61" tvg-name="大湾区卫视" tvg-logo="http://192.168.31.133/logo/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="61" tvg-name="大湾区卫视" tvg-logo="http://192.168.31.133/logo/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="61" tvg-name="大湾区卫视" tvg-logo="http://192.168.31.133/logo/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="61" tvg-name="大湾区卫视" tvg-logo="http://192.168.31.133/logo/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="广州综合" tvg-logo="http://192.168.31.133/logo/广州综合.png" group-title="☘️广东频道",广州综合
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="62" tvg-name="广州综合" tvg-logo="http://192.168.31.133/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="62" tvg-name="广州综合" tvg-logo="http://192.168.31.133/logo/广州综合.png" group-title="☘️广东频道",广州综合
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="62" tvg-name="广州综合" tvg-logo="http://192.168.31.133/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 tvg-id="62" tvg-name="广州综合" tvg-logo="http://192.168.31.133/logo/广州综合.png" group-title="☘️广东频道",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+#EXTINF:-1 tvg-id="63" tvg-name="广州影视" tvg-logo="http://192.168.31.133/logo/广州影视.png" group-title="☘️广东频道",广州影视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="63" tvg-name="广州影视" tvg-logo="http://192.168.31.133/logo/广州影视.png" group-title="☘️广东频道",广州影视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="63" tvg-name="广州影视" tvg-logo="http://192.168.31.133/logo/广州影视.png" group-title="☘️广东频道",广州影视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="63" tvg-name="广州影视" tvg-logo="http://192.168.31.133/logo/广州影视.png" group-title="☘️广东频道",广州影视
+https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
+#EXTINF:-1 tvg-id="63" tvg-name="广州影视" tvg-logo="http://192.168.31.133/logo/广州影视.png" group-title="☘️广东频道",广州影视
+https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
+#EXTINF:-1 tvg-id="64" tvg-name="广州竞赛" tvg-logo="http://192.168.31.133/logo/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="64" tvg-name="广州竞赛" tvg-logo="http://192.168.31.133/logo/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="64" tvg-name="广州竞赛" tvg-logo="http://192.168.31.133/logo/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="64" tvg-name="广州竞赛" tvg-logo="http://192.168.31.133/logo/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-34.ctv
+#EXTINF:-1 tvg-id="64" tvg-name="广州竞赛" tvg-logo="http://192.168.31.133/logo/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+https://stream1.freetv.fun/yan-zhou-jing-sai-38.ctv
+#EXTINF:-1 tvg-id="65" tvg-name="江门综合" tvg-logo="http://192.168.31.133/logo/江门综合.png" group-title="☘️广东频道",江门综合
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="65" tvg-name="江门综合" tvg-logo="http://192.168.31.133/logo/江门综合.png" group-title="☘️广东频道",江门综合
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="65" tvg-name="江门综合" tvg-logo="http://192.168.31.133/logo/江门综合.png" group-title="☘️广东频道",江门综合
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="65" tvg-name="江门综合" tvg-logo="http://192.168.31.133/logo/江门综合.png" group-title="☘️广东频道",江门综合
+https://stream1.freetv.fun/jiang-men-zong-he-2.ctv
+#EXTINF:-1 tvg-id="65" tvg-name="江门综合" tvg-logo="http://192.168.31.133/logo/江门综合.png" group-title="☘️广东频道",江门综合
+https://stream1.freetv.fun/jiang-men-zong-he-7.ctv
+#EXTINF:-1 tvg-id="66" tvg-name="江门侨乡生活" tvg-logo="http://192.168.31.133/logo/江门侨乡生活.png" group-title="☘️广东频道",江门侨乡生活
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="66" tvg-name="江门侨乡生活" tvg-logo="http://192.168.31.133/logo/江门侨乡生活.png" group-title="☘️广东频道",江门侨乡生活
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="66" tvg-name="江门侨乡生活" tvg-logo="http://192.168.31.133/logo/江门侨乡生活.png" group-title="☘️广东频道",江门侨乡生活
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="67" tvg-name="佛山综合" tvg-logo="http://192.168.31.133/logo/佛山综合.png" group-title="☘️广东频道",佛山综合
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="67" tvg-name="佛山综合" tvg-logo="http://192.168.31.133/logo/佛山综合.png" group-title="☘️广东频道",佛山综合
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="67" tvg-name="佛山综合" tvg-logo="http://192.168.31.133/logo/佛山综合.png" group-title="☘️广东频道",佛山综合
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="67" tvg-name="佛山综合" tvg-logo="http://192.168.31.133/logo/佛山综合.png" group-title="☘️广东频道",佛山综合
+https://stream1.freetv.fun/fo-shan-zong-he-7.ctv
+#EXTINF:-1 tvg-id="67" tvg-name="佛山综合" tvg-logo="http://192.168.31.133/logo/佛山综合.png" group-title="☘️广东频道",佛山综合
+https://stream1.freetv.fun/fo-shan-zong-he-9.ctv
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="深圳卫视" tvg-logo="http://192.168.31.133/logo/深圳卫视.png" group-title="☘️广东频道",深圳卫视
+https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="汕头综合" tvg-logo="http://192.168.31.133/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="68" tvg-name="汕头综合" tvg-logo="http://192.168.31.133/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="68" tvg-name="汕头综合" tvg-logo="http://192.168.31.133/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="68" tvg-name="汕头综合" tvg-logo="http://192.168.31.133/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-5.ctv
+#EXTINF:-1 tvg-id="68" tvg-name="汕头综合" tvg-logo="http://192.168.31.133/logo/汕头综合.png" group-title="☘️广东频道",汕头综合
+https://stream1.freetv.fun/shan-tou-zong-he-9.ctv
+#EXTINF:-1 tvg-id="69" tvg-name="汕头经济" tvg-logo="http://192.168.31.133/logo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="69" tvg-name="汕头经济" tvg-logo="http://192.168.31.133/logo/汕头经济.png" group-title="☘️广东频道",汕头经济
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="69" tvg-name="汕头经济" tvg-logo="http://192.168.31.133/logo/汕头经济.png" group-title="☘️广东频道",汕头经济
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="69" tvg-name="汕头经济" tvg-logo="http://192.168.31.133/logo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-1.ctv
+#EXTINF:-1 tvg-id="69" tvg-name="汕头经济" tvg-logo="http://192.168.31.133/logo/汕头经济.png" group-title="☘️广东频道",汕头经济
+https://stream1.freetv.fun/shan-tou-jing-ji-6.ctv
+#EXTINF:-1 tvg-id="70" tvg-name="汕头文旅" tvg-logo="http://192.168.31.133/logo/汕头文旅.png" group-title="☘️广东频道",汕头文旅
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="70" tvg-name="汕头文旅" tvg-logo="http://192.168.31.133/logo/汕头文旅.png" group-title="☘️广东频道",汕头文旅
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="70" tvg-name="汕头文旅" tvg-logo="http://192.168.31.133/logo/汕头文旅.png" group-title="☘️广东频道",汕头文旅
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="71" tvg-name="茂名综合" tvg-logo="http://192.168.31.133/logo/茂名综合.png" group-title="☘️广东频道",茂名综合
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="71" tvg-name="茂名综合" tvg-logo="http://192.168.31.133/logo/茂名综合.png" group-title="☘️广东频道",茂名综合
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="71" tvg-name="茂名综合" tvg-logo="http://192.168.31.133/logo/茂名综合.png" group-title="☘️广东频道",茂名综合
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
+#EXTINF:-1 tvg-id="72" tvg-name="茂名公共" tvg-logo="http://192.168.31.133/logo/茂名公共.png" group-title="☘️广东频道",茂名公共
+https://g.blfrp.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="72" tvg-name="茂名公共" tvg-logo="http://192.168.31.133/logo/茂名公共.png" group-title="☘️广东频道",茂名公共
+http://gh.qninq.cn/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+#EXTINF:-1 tvg-id="72" tvg-name="茂名公共" tvg-logo="http://192.168.31.133/logo/茂名公共.png" group-title="☘️广东频道",茂名公共
+Govin订阅源（订阅源前拼接此前、现在2个CDN代理加速地址）：
